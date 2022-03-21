@@ -1,5 +1,5 @@
 ---
-title: "Online Portfolio & Resume"
+title: "Online Portfolio"
 date: 2022-03-20 22:00:00 -0500
 categories: protfolio update
 ---
@@ -9,16 +9,15 @@ categories: protfolio update
 
 ## Bio
 
-> Mobile developer looking for a position in the development team, where I can apply my five years of developing experience, Objective-oriented programming, Android, iOS, Web development skills to develop applications.
+> Developer looking for a position in the development team, where I can apply my five years of developing experience, Objective-oriented programming, Android, iOS, Web development skills to develop applications.
 
 * * *
 <br/>
 
 ## Summery
 
-- Five year of experience as a developer
-- Provided service for over 100,000 customers in five countries.
-- Managed software serviced in more 50 institutions, including university and general hospitals
-- Bachelor's in Computer Engineering from University of Kyung Hee (2018)
-- Bachelor's in Electronics and Radio Engineering from University of Kyung Hee (2018)
+- Manage high web performance by clean up the unnecessary codes to shorten the load time on desktop and mobile. 
+- Write and maintain reusable utility code and libraries for the future usage of the development team.
+- •	Develop and maintain web applications for marketing and sales purposes using SQL, HTML5, and Python
+- Bachelor's in Computer Science from University of Waterloo (2016)
 <br/>
