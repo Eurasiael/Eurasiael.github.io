@@ -15,7 +15,7 @@ Download: Resume CoverLetter
 * * *
 <br/>
 
-## Summery
+## Summary
 
 - Manage high web performance by clean up the unnecessary codes to shorten the load time on desktop and mobile. 
 - Write and maintain reusable utility code and libraries for the future usage of the development team.
