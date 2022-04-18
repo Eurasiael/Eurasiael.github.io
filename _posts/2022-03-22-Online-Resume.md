@@ -1,8 +1,8 @@
 ---
 title: "Online Portfolio"
 date: 2022-04-16 22:00:00 -0500
-categories: protfolio update
-Download : Resume Cover-Letter
+Download: Resume CoverLetter
+
 ---
 
 # Creative Programmer
