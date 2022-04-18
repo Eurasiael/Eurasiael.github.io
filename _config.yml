@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Coding Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JY Kim"
+name                     : "Eurasiael"
 description              : "An amazing website."
 url                      : "https://Eurasiael.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eurasiael"
+  name             : "JINYOUNG KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "If you want it,**Work for it**."
   location         : "Toronto"
