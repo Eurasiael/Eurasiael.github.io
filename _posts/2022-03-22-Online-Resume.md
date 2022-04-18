@@ -1,7 +1,8 @@
 ---
 title: "Online Portfolio"
-date: 2022-03-20 22:00:00 -0500
+date: 2022-04-16 22:00:00 -0500
 categories: protfolio update
+Download : Resume Cover Letter
 ---
 
 # Creative Programmer
@@ -18,6 +19,6 @@ categories: protfolio update
 
 - Manage high web performance by clean up the unnecessary codes to shorten the load time on desktop and mobile. 
 - Write and maintain reusable utility code and libraries for the future usage of the development team.
-- •	Develop and maintain web applications for marketing and sales purposes using SQL, HTML5, and Python
+- Develop and maintain web applications for marketing and sales purposes using SQL, HTML5, and Python
 - Bachelor's in Computer Science from University of Waterloo (2016)
 <br/>
